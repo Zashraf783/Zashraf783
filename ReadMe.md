@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Zeyad Ragab. I am a biotechnology and biomolecular chemistry graduate from Cairo University with a 4.16 GPA. I have a great passion for Data science, Machine learning, and Bioinformatics, and I always work on supplementing these skills with courses and projects. I am always open to collaborations and new opportunities.
+Hello, my name is Ziad Mohamed. I am a biotechnology and biomolecular chemistry graduate from Cairo University with a 4.16 GPA. I have a great passion for Data science, Machine learning, and Bioinformatics, and I always work on supplementing these skills with courses and projects. I am always open to collaborations and new opportunities.
 
 
 ## 🌐 Socials:
